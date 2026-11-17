@@ -86,5 +86,9 @@ John the Ripper and Johnny tools provide practical ways to understand password s
 
 Online password cracking tools can demonstrate the password recovery process without requiring local installation.
 
+## Evidence:
+
+Screenshots documenting the practical steps and the observed results are provided below.
+
 
 
