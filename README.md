@@ -90,5 +90,20 @@ Online password cracking tools can demonstrate the password recovery process wit
 
 Screenshots documenting the practical steps and the observed results are provided below.
 
+## Disclaimer:
+
+All activities were performed only on systems where I had permission or that I own. For education and research purposes only.
+
+All activities were conducted as part of an authorized educational internship exercise using the provided lab files and tools.
+
+Password cracking techniques should only be used on files, systems and password hashes for which permission has been granted.
+
+## Acknowledgement:
+
+This project was done as a part of the NetworkWalks Cybersecurity Internship 2026.
+
+Special thanks to NetworkWalks and my instructor Mr.Waqas Karim for providing the learning resources, exercises and guidance throughout the internship.
+
+
 
 
