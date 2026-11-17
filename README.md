@@ -62,6 +62,29 @@ Activities performed:
 
 5. Submitted the extracted hash.
 
-6. Observed the password-cracking process.
+6. Observed the password cracking process.
 
-Result: The Password Cracker processed 91 out of 100 available wordlists and successfully recovered the correct password
+Result: The Password Cracker processed the available wordlists and successfully recovered the correct password.
+
+## What I learned and Observations:
+
+With these two modules, I gained hands on experience with password recovery and password security testing.
+
+I learned how to extract password hashes from protected PDF files, load them into Johnny tool and perform password recovery.
+
+I learned NetworkWalks' online Hash Calculator and Password Cracker to get a understanding of how wordlists are used during password cracking attempts.
+
+This exercise helped me understand why strong, unique passwords are important and how security assessments can help identify weak passwords before they become a security risk.
+
+Password protected files can contain hashes that can be extracted for authorized security testing.
+
+Password recovery tools can test password strength using different wordlists.
+
+Weak or commonly used passwords may be recovered more easily.
+
+John the Ripper and Johnny tools provide practical ways to understand password security.
+
+Online password cracking tools can demonstrate the password recovery process without requiring local installation.
+
+
+
