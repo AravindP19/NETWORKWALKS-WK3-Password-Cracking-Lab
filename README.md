@@ -15,3 +15,11 @@ and weaknesses.
 WK3-PM1: Password Cracking with John the Ripper (JTR) and Johnny.
 
 WK3-PM2: Password Cracking with NetworkWalks Tools.
+## Tools Used:
+|              Tool             |                       Purpose                       | 
+|:-----------------------------:|:---------------------------------------------------:|
+| John the Ripper (JTR)         | Password security testing and password recovery     | 
+| Johnny                        | Graphical interface for John the Ripper             | 
+| NetworkWalks Hash Calculator  | Extracting password hashes from protected PDF files | 
+| NetworkWalks Password Cracker | Testing password hashes against available wordlists | 
+| Windows PC                    | Environment used for the JTR practical exercise     |
