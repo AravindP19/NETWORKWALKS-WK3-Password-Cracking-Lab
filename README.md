@@ -23,3 +23,45 @@ WK3-PM2: Password Cracking with NetworkWalks Tools.
 | NetworkWalks Hash Calculator  | Extracting password hashes from protected PDF files | 
 | NetworkWalks Password Cracker | Testing password hashes against available wordlists | 
 | Windows PC                    | Environment used for the JTR practical exercise     |
+## Tasks Completed:
+###1. WK3-PM1 — Password Cracking with JTR
+
+Objective: Recover the passwords of the provided protected PDF files using John the Ripper and Johnny on Windows.
+
+Activities performed:
+
+1. Downloaded and configured Johnny on my Windows PC.
+
+2. Obtained the provided password-protected PDF files.
+
+3. Used the File Conversion Tool to extract password hashes.
+
+4. Saved the extracted hash in a text file named hash1.txt.
+
+5. Opened the hash file using Johnny.
+
+6. Started a new password recovery attack.
+
+7. Successfully recovered the password of the first PDF.
+
+Result: Successfully recovered the passwords of the provided PDF file.
+
+###2. WK3-PM2 — Password Cracking with NetworkWalks Tools
+
+Objective: Use NetworkWalks online tools to extract and recover the password of a protected PDF file.
+
+Activities performed:
+
+1. Opened NetworkWalks Hash Calculator.
+2. 
+3. Uploaded the provided password protected PDF file.
+4. 
+5. Extracted and copied its password hash.
+6. 
+7. Opened NetworkWalks Password Cracker.
+8. 
+9. Submitted the extracted hash.
+10. 
+11. Observed the password-cracking process.
+12. 
+Result: The Password Cracker processed the available wordlists and successfully recovered the correct password.
