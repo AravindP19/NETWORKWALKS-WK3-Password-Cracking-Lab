@@ -53,15 +53,15 @@ Objective: Use NetworkWalks online tools to extract and recover the password of 
 Activities performed:
 
 1. Opened NetworkWalks Hash Calculator.
-2. 
-3. Uploaded the provided password protected PDF file.
-4. 
-5. Extracted and copied its password hash.
-6. 
-7. Opened NetworkWalks Password Cracker.
-8. 
-9. Submitted the extracted hash.
-10. 
-11. Observed the password-cracking process.
-12. 
-Result: The Password Cracker processed the available wordlists and successfully recovered the correct password.
+
+2. Uploaded the provided password-protected PDF file.
+
+3. Extracted and copied its password hash.
+
+4. Opened NetworkWalks Password Cracker.
+
+5. Submitted the extracted hash.
+
+6. Observed the password-cracking process.
+
+Result: The Password Cracker processed 91 out of 100 available wordlists and successfully recovered the correct password
