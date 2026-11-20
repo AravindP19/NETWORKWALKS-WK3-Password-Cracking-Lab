@@ -24,7 +24,9 @@ WK3-PM2: Password Cracking with NetworkWalks Tools.
 | NetworkWalks Password Cracker | Testing password hashes against available wordlists | 
 | Windows PC                    | Environment used for the JTR practical exercise     |
 ## Tasks Completed:
-###1. WK3-PM1 — Password Cracking with JTR
+
+1. WK3-PM1 — Password Cracking with JTR
+
 
 Objective: Recover the passwords of the provided protected PDF files using John the Ripper and Johnny on Windows.
 
@@ -46,7 +48,10 @@ Activities performed:
 
 Result: Successfully recovered the passwords of the provided PDF file.
 
-###2. WK3-PM2 — Password Cracking with NetworkWalks Tools
+
+
+2. WK3-PM2 — Password Cracking with NetworkWalks Tools
+
 
 Objective: Use NetworkWalks online tools to extract and recover the password of a protected PDF file.
 
@@ -88,7 +93,7 @@ Online password cracking tools can demonstrate the password recovery process wit
 
 ## Evidence:
 
-Screenshots documenting the practical steps and the observed results are provided below.
+Screenshots documenting the practical steps and the observed results are provided above.
 
 ## Disclaimer:
 
